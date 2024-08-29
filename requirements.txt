@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+streamlit
+# neo4j
+# openai
+# torch==2.0.1
+pytesseract
+PyPDF2
+sentence_transformers==2.2.2
+tiktoken
+python-dotenv
